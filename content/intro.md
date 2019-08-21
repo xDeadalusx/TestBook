@@ -1,4 +1,4 @@
-# Data Driven Modeling Course (WS 2019/2020)
+# Data Driven Methods Course (WS 2019/2020)
 
 Test text
 
