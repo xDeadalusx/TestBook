@@ -1,13 +1,13 @@
 ---
 redirect_from:
   - "/01/intro"
-interact_link: content/E:\Git\DataDrivenMethods\Test2\content\01/Intro.ipynb
+interact_link: content/E:\Git\DataDrivenMethods\TestBook_local\content\01/Intro.ipynb
 kernel_name: Python [Root]
 has_widgets: false
 title: 'Intro'
 prev_page:
-  url: https://github.com/jupyter/jupyter-book
-  title: 'GitHub repository'
+  url: /intro.html
+  title: 'Home'
 next_page:
   url: 
   title: ''
