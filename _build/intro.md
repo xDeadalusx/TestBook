@@ -8,7 +8,7 @@ next_page:
   title: 'Intro'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-# Data Driven Modeling Course (WS 2019/2020)
+# Data Driven Methods Course (WS 2019/2020)
 
 Test text
 

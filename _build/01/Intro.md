@@ -9,7 +9,7 @@ prev_page:
   url: /intro.html
   title: 'Home'
 next_page:
-  url: /02/Section2.html
+  url: /02/Test.html
   title: 'Section Bla'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
