@@ -17,13 +17,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 # Motivation and Basic Concepts
 
-Hello, here's some text for y'all.
-
-\begin{itemize}
-\item bla
-\item blub
-\item plob
-\end{itemize}
+Hello, here's some text.
 
 And at least a little formula
 
@@ -64,5 +58,13 @@ y=data
 ```
 </div>
 
+<div class="output_wrapper" markdown="1">
+<div class="output_subarea" markdown="1">
+
+{:.output_png}
+![png](../images/02/Test_1_0.png)
+
+</div>
+</div>
 </div>
 
