@@ -1,16 +1,16 @@
 ---
 redirect_from:
-  - "/01/intro"
-interact_link: content/E:\Git\DataDrivenMethods\TestBook\content\01/Intro.ipynb
+  - "/02/section2"
+interact_link: content/E:\Git\DataDrivenMethods\TestBook\content\02/Section2.ipynb
 kernel_name: Python [Root]
 has_widgets: false
-title: 'Intro'
+title: 'Section Bla'
 prev_page:
-  url: /intro.html
-  title: 'Home'
+  url: /01/Intro.html
+  title: 'Intro'
 next_page:
-  url: /02/Section2.html
-  title: 'Section Bla'
+  url: 
+  title: ''
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 
@@ -26,7 +26,7 @@ One type we have encountered already is a built-in function. Python indicates th
 <div markdown="1" class="cell code_cell">
 <div class="input_area" markdown="1">
 ```python
-a=2
+type(abs)
 
 ```
 </div>
