@@ -18,7 +18,7 @@
 
 
 - title: Home
-  url: /intro
+  url: /CourseDescription
   not_numbered: true
 - title: Search
   search: true
@@ -26,9 +26,7 @@
 - divider: true
 - header: Contents
 
-- title: Intro
-  url: /01/Intro
-- title: IntroMot
+- title: Introduction and Motivation
   url: /01/IntroductionMotivation
 - title: Install
   url: /01/InstallingJupyter
