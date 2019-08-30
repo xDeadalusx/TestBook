@@ -28,5 +28,9 @@
 
 - title: Intro
   url: /01/Intro
+- title: IntroMot
+  url: /01/IntroductionMotivation
+- title: Install
+  url: /01/InstallingJupyter
 - title: Section Bla
   url: /02/Test

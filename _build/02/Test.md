@@ -6,8 +6,8 @@ kernel_name: python3
 has_widgets: false
 title: 'Section Bla'
 prev_page:
-  url: /01/Intro.html
-  title: 'Intro'
+  url: /01/InstallingJupyter.html
+  title: 'Install'
 next_page:
   url: 
   title: ''
